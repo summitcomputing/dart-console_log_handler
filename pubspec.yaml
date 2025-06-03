@@ -7,7 +7,7 @@ description: Console logger
 homepage: https://github.com/MikeMitterer/dart-console_log_handler
 
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0" #~ ">=2.0.0 <3.0.0"
 
 dependencies:
 
